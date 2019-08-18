@@ -1,0 +1,19 @@
+{
+  "name": "mini-spotify",
+  "version": "1.0.0",
+  "description": "API Rest project wit NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenapiaggio/mini-spotify.git"
+  },
+  "author": "Elena Piaggio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elenapiaggio/mini-spotify/issues"
+  },
+  "homepage": "https://github.com/elenapiaggio/mini-spotify#readme"
+}
