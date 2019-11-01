@@ -1,10 +1,10 @@
-# Mini Spotify Project
+# mini-spotify
 
 ## Description
 This project consist of making a mini spotify using MEAN Stack:
 
+- Node
 - MongDB
 - Express
-- Angular
-- Node
 - JWT
+- Angular
