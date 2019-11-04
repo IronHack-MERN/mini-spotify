@@ -8,7 +8,7 @@ const albumSchema = new Schema(
     description: { type: String},
     year: { type: String},
     image: { type: String},
-    artist: { type: String},
+    artist: { type: Schema.ObjectId, ref: 'Artist'},
   },
 );
 
